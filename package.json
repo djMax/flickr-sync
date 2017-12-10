@@ -1,0 +1,21 @@
+{
+  "name": "flickr-sync",
+  "version": "1.0.0",
+  "description": "Synchronize Flickr collection to local disk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flickr",
+    "download",
+    "sync",
+    "bulk"
+  ],
+  "author": "Max Metral",
+  "license": "MIT",
+  "dependencies": {
+    "flickr-sdk": "^3.5.0",
+    "open": "0.0.5"
+  }
+}
